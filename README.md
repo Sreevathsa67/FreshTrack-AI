@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+# **FreshTrack AI – Real-Time Freshness & Emissions Intelligence System**
 
-## Project info
+## ✅ Overview  
+FreshTrack AI is an **IoT + Edge AI + Blockchain-powered solution** designed to track the **freshness, condition, and carbon emissions** of perishable goods across Walmart’s cold chain — from **warehouse to shelf**.
 
-**URL**: https://lovable.dev/projects/5ae36cf8-22be-4cac-952d-135de5b18c6a
+Our goal:  
+✔ Reduce food spoilage by **40–60%**  
+✔ Optimize **last-mile delivery**  
+✔ Ensure **sustainability compliance** with real-time emissions tracking  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## **Problem Statement**  
+Every year, U.S. grocery retailers lose **$3.6 billion** due to food spoilage. Traditional monitoring systems lack real-time freshness tracking and emissions accountability, resulting in waste, financial loss, and poor ESG compliance.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5ae36cf8-22be-4cac-952d-135de5b18c6a) and start prompting.
+## **Our Solution**  
+FreshTrack AI provides **end-to-end monitoring** by:  
+- **IoT Smart Tags**: Attach to pallets and monitor **temperature, humidity, ethylene gas, vibration, and location** in real-time.  
+- **Edge AI**: Predict shelf life and spoilage risk on-device, reducing cloud dependency.  
+- **Blockchain**: Immutable storage for compliance and transparency.  
+- **Dynamic Routing**: Re-route trucks and prioritize unloading based on real-time freshness data.  
+- **Dashboard**: Actionable insights for managers including freshness scores, spoilage alerts, and emissions metrics.  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## **Core Features**  
+✅ Real-time freshness tracking  
+✅ Spoilage risk prediction  
+✅ Carbon emissions per route  
+✅ Blockchain-powered traceability  
+✅ AI-driven route optimization  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## **Tech Stack**  
+- **IoT Devices**: ESP32, BME280 (Temp & Humidity), MiCS-5524 (Gas), ADXL345 (Vibration), NEO-6M GPS  
+- **Connectivity**: MQTT / GSM (SIM800L)  
+- **Edge AI**: TensorFlow Lite on ESP32 or Jetson Nano  
+- **Backend**: Node.js / FastAPI, PostgreSQL, Kafka  
+- **Blockchain**: Hyperledger Fabric  
+- **Frontend**: React.js / PowerBI  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## **Architecture**  
+1. IoT sensors capture freshness & location data.  
+2. Edge AI predicts spoilage and pallet health.  
+3. Data is pushed via MQTT to the backend.  
+4. Blockchain records immutable logs.  
+5. Dashboard visualizes freshness heatmaps, alerts, and emissions data.  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## **Impact**  
+✔ Reduce spoilage by **40–60%**  
+✔ Save millions in annual waste  
+✔ Improve ESG reporting accuracy  
+✔ Boost customer satisfaction through fresher products  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## **Cost & Feasibility**  
+- Prototype hardware cost: **₹2,000–₹2,500 per unit (~$30)**  
+- Highly scalable across all Walmart cold-chain operations  
+- Rapid deployment possible with minimal infrastructure changes  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## **Demo Possibilities (MVP)**  
+- Simulated IoT data via ESP32 sensors  
+- Dashboard with freshness and emissions tracking  
+- Predictive alerts for spoilage risk  
+- Blockchain-based traceability simulation  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## **Team**  
+- IoT & Embedded Systems  
+- AI & Data Science  
+- Backend Development  
+- Blockchain Integration  
+- UI/UX Dashboard Design  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5ae36cf8-22be-4cac-952d-135de5b18c6a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## **License**  
+MIT License
