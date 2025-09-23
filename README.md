@@ -1,4 +1,5 @@
 # **FreshTrack AI – Real-Time Freshness & Emissions Intelligence System**
+<img width="1893" height="863" alt="image" src="https://github.com/user-attachments/assets/a75ff3d0-8495-40bf-bd60-f418bbdb133c" />
 
 ## ✅ Overview  
 FreshTrack AI is an **IoT + Edge AI + Blockchain-powered solution** designed to track the **freshness, condition, and carbon emissions** of perishable goods across Walmart’s cold chain — from **warehouse to shelf**.
