@@ -29,7 +29,13 @@ FreshTrack AI provides **end-to-end monitoring** by:
 ## **Core Features**  
 ✅ Real-time freshness tracking  
 <img width="1699" height="459" alt="image" src="https://github.com/user-attachments/assets/086dc2e7-b5d2-472a-bbdf-7c6f275c000a" />
+
+
 <img width="1121" height="761" alt="image" src="https://github.com/user-attachments/assets/527eef5d-0cad-4df4-a41a-0aa699cdc187" />
+
+
+
+<img width="1621" height="534" alt="image" src="https://github.com/user-attachments/assets/8fff5903-e170-444f-83b1-75a06342dd0d" />
 
 
 ✅ Spoilage risk prediction  
@@ -38,7 +44,10 @@ FreshTrack AI provides **end-to-end monitoring** by:
 
 ✅ Blockchain-powered traceability  
 ✅ AI-driven route optimization  
+
 <img width="1672" height="714" alt="image" src="https://github.com/user-attachments/assets/fb920950-9817-4cf0-a92b-d1246d8ae2c6" />
+
+
 
 <img width="1608" height="702" alt="image" src="https://github.com/user-attachments/assets/0ce283ce-c7a5-4a34-9844-c06a69a97ec6" />
 
