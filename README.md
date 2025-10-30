@@ -5,7 +5,7 @@
 FreshTrack AI is an **IoT + Edge AI + Blockchain-powered solution** designed to track the **freshness, condition, and carbon emissions** of perishable goods across Walmart’s cold chain — from **warehouse to shelf**.
 
 Our goal:  
-✔ Reduce food spoilage by **40–60%**  
+✔ Reduce food spoilage by **40–65%**  
 ✔ Optimize **last-mile delivery**  
 ✔ Ensure **sustainability compliance** with real-time emissions tracking  
 
